@@ -2,17 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed9e2a83-7e6d-44d6-b505-22f1604d619d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day2/number" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/number" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/p1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/number" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/number" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,6 +47,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day4" />
+      <recent name="$PROJECT_DIR$/day3" />
       <recent name="$PROJECT_DIR$/day2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -50,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p2 (1)">
+  <component name="RunManager" selected="Python.p1">
     <configuration name="p1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="adventofcode2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +90,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="p1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="adventofcode2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3/p1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="p1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="adventofcode2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,12 +120,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/p1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day4/p1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="adventofcode2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/p2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3/p2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,10 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p1" />
+        <item itemvalue="Python.p2 (2)" />
+        <item itemvalue="Python.p1 (2)" />
         <item itemvalue="Python.p2 (1)" />
         <item itemvalue="Python.p1 (1)" />
-        <item itemvalue="Python.p2" />
-        <item itemvalue="Python.p1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +199,9 @@
       <option name="presentableId" value="Default" />
       <updated>1638335639563</updated>
       <workItem from="1638335643800" duration="2460000" />
-      <workItem from="1638356356636" duration="2930000" />
+      <workItem from="1638356356636" duration="4020000" />
+      <workItem from="1638511141703" duration="2367000" />
+      <workItem from="1638513529267" duration="4146000" />
     </task>
     <servers />
   </component>
@@ -180,9 +222,11 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/adventofcode2021$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1638356732643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/adventofcode2021$p2__1_.coverage" NAME="p2 (1) Coverage Results" MODIFIED="1638425169179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/adventofcode2021$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1638600785036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/adventofcode2021$p2__1_.coverage" NAME="p2 (1) Coverage Results" MODIFIED="1638427921434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/adventofcode2021$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1638356896461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/adventofcode2021$p1__1_.coverage" NAME="p1 (1) Coverage Results" MODIFIED="1638424965732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/adventofcode2021$p1__1_.coverage" NAME="p1 (1) Coverage Results" MODIFIED="1638427889977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/adventofcode2021$p2__2_.coverage" NAME="p2 (2) Coverage Results" MODIFIED="1638517095564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/adventofcode2021$p1__2_.coverage" NAME="p1 (2) Coverage Results" MODIFIED="1638517068200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
   </component>
 </project>
